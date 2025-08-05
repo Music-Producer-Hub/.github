@@ -12,7 +12,7 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/MusicProducerHub/FreeTunePro-Hub)  
+- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Music-Producer-Hub/.github)  
 - [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Music-Producer-Hub/FreeTunePro-2025-Free-Autotune-for-FL-Studio-Hub)  
 
 ---
